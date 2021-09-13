@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Jianyun's github stats](https://github.com/jianyun2020/github-readme-stats)
+[![Jianyun's github stats](https://github-readme-stats.vercel.app/api?username=jianyun2020)](https://github.com/jianyun2020/github-readme-stats)
+
 
